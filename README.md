@@ -10,6 +10,7 @@ An Android software that maintains the connection between the phone and the robo
 
 This robot's next stage is automation, which will allow it to use proximity sensors to choose the best path around obstacles without becoming trapped.
 
+---
 ## The structure
 
 There are two rather comparable elements of the project:
@@ -17,6 +18,21 @@ There are two rather comparable elements of the project:
 - the robot's Arduino board's HC-05 module receives data via Bluetooth from the Android app, and
 - the Arduino board, whose software processes the data it gets from the phone to control the robot and perform the specified tasks in real time
 
+---
+## Hardware resources
+- Arduino Uno
+- Lcd 2004
+- HC-SR04 Ultrasonic distance sensor
+- L298N motor driver
+- DHT11 temperature and humidity sensor
+- HC-05 Bluetooth module
+- Motor with 3-6V reducer
+- Rubber wheels
+- Connecting wires
+- Breadboards
+- Battery and switch
+- Android mobile phone
+---
 ![alt text](menu.jpg)
-![alt text](robot.jpg)
+![alt text](robot.JPG)
 
