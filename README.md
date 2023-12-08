@@ -35,4 +35,6 @@ There are two rather comparable elements of the project:
 ---
 ![alt text](menu.jpg)
 ![alt text](robot.JPG)
+![alt text](blocks.png)
+
 
