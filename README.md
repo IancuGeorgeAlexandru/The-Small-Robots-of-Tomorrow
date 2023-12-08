@@ -17,4 +17,6 @@ There are two rather comparable elements of the project:
 - the robot's Arduino board's HC-05 module receives data via Bluetooth from the Android app, and
 - the Arduino board, whose software processes the data it gets from the phone to control the robot and perform the specified tasks in real time
 
-![alt text](image.jpg)
+![alt text](menu.jpg)
+![alt text](robot.jpg)
+
